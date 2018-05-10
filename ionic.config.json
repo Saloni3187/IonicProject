@@ -1,6 +1,6 @@
 {
   "name": "deployApp",
-  "app_id": "df01c53e",
+  "app_id": "69ee39ad",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
